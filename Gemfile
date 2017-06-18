@@ -41,3 +41,7 @@ group :test do
   gem 'database_cleaner'
   gem 'launchy'
 end
+
+gem 'milia'
+
+gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
